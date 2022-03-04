@@ -1,22 +1,15 @@
 ## First Challenge Solution
-This is the first challenge of the kevin powell (Conquering reponiveness course)
+This is the first challenge of the Kevin Powell (Conquering responsiveness course)
 
 
 ### The challenge
-1) Limit the total width of
- *    the .intro-conent to about half
- *    of it's parent
- *
- * 2) Stop the text from overflowing
- *    out the bottom at small screen
- *    widths
- *
- * You may modify the HTML if needed
- *
+1) Limit the total width of the .intro-content to about half of it's parent  
+2) Stop the text from overflowing out the bottom at small screen widths. 
+3) You may modify the HTML if needed
  
 ### Screenshot
 
-![](./screenshot.jpg)
+![](Images/before.png)
 
 ### Links
 

@@ -9,7 +9,8 @@ This is the first challenge of the Kevin Powell (Conquering responsiveness cours
  
 ### Screenshot
 
-![](Images/before.png)
+![](Images/Before.png)
+![](Images/After.png)
 
 ### Links
 
